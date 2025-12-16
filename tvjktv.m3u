@@ -1,6 +1,7 @@
 #EXTM3U8
 #EXTINF:-1,tvg-id="tvN.kr", tvN
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7b7lEJOhDPdf73ybY6pfvVRIgfLu0oot2NqYDDub&secret=3fe3870fe72a7c5de444eb4d3c456875&time=1765891821
+https://live-114.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7rr7bDqtSgQhIXTXPy1bKEQgYoGEtUDiL8&secret=214fb7e602c0dc5fbc45f46927cd140d&time=1748048055
+#https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7b7lEJOhDPdf73ybY6pfvVRIgfLu0oot2NqYDDub&secret=3fe3870fe72a7c5de444eb4d3c456875&time=1765891821
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
 #EXTINF:-1,tvg-id="KBS2.kr", KBS2
@@ -16,7 +17,8 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=jvgMIYZC8L1
 #EXTINF:-1,tvg-id="JTBC.kr", JTBC 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
 #EXTINF:-1,tvg-id="OCN.kr", OCN
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=Kzva5s9JEaykYao4PPATIBRAQCnFpeuMJVFmc2Hg&secret=97dd5ae044fab89295c839063830d610&time=1765892105
+https://live-114.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
+#https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=Kzva5s9JEaykYao4PPATIBRAQCnFpeuMJVFmc2Hg&secret=97dd5ae044fab89295c839063830d610&time=1765892105
 #EXTINF:-1,tvg-id="OCNMovies.kr", OCN Movies
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
 #EXTINF:-1,tvg-id="OCNMovies2.kr", OCN Movies2
