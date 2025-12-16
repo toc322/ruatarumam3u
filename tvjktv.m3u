@@ -1,180 +1,143 @@
 #EXTM3U8
-#EXTINF:-1,tvN
-#https://krtv.site/kakotvlive/kakotvlive27/tvn.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7rr7bDqtSgQhIXTXPy1bKEQgYoGEtUDiL8&secret=214fb7e602c0dc5fbc45f46927cd140d&time=1748048055
-#http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00551&q=FHD&apikey=5MY50EII66
-#EXTINF:-1,KBS1
-#https://krtv.site/kakotvlive/kakotvlive27/kbs1.php
-#https://tv.iill.top/kbs/11&p=0
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=fyAvvD3F74POZh6GmE2btRtXE3FRA7x4WA5l1B5m&secret=f1ecf5d3c1cda86dc1eb741cec2e91bf&time=1742499426
-#EXTINF:-1,KBS2
-#https://krtv.site/kakotvlive/kakotvlive27/kbs2.php
-#https://tv.iill.top/kbs/12&p=0
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=nGwIH0XSiD8i6BgNlw1BzsZ9ZkNGavHRb7KWRaUB&secret=24378334b2628dc756899977221fbe37&time=1742499579
-#EXTINF:-1,MBC
-#https://krtv.site/kakotvlive/kakotvlive27/mbc.php
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=OiF7QW8tv67KzSp46AumV3RRfFzaM23xbWGWK1EE&secret=52841b1a2fc1ea3572f35742831c2823&time=1746640316
-#http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1,SBS
-#https://krtv.site/kakotvlive/kakotvlive27/sbs.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=pgl0MLCBpuhYsXqyNXvAxTpnwsO7Z0LIv6TjzgW7&secret=3890d3e89e3ba3c4fe9c7bf7e93b7db1&time=1746640387
-#EXTINF:-1,EBS1
-#https://krtv.site/kakotvlive/kakotvlive27/ebs1.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=hYnLduDv8nt54u8V33fzOzX2965Hpw5riMGhlJ3R&secret=49acbb73b9d018958342b304a2c5c7f4&time=1742556411
-#EXTINF:-1,EBS2
-#https://krtv.site/kakotvlive/kakotvlive27/ebs2.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=0wonnSSHsGui3yCUVS2h68L4nXKpocbek6UATVNu&secret=b6c54f84829101b5d1159e0143a063e1&time=1742556563
-#EXTINF:-1,JTBC
-#https://krtv.site/kakotvlive/kakotvlive27/jtbc.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=ueRIPcU1CmpLxvesJU3p3VVgAfWDA7Gq6Ok1SwdS&secret=7e0fd7ca14ec47bd96aca368dade12a4&time=1742499897
-#EXTINF:-1,OCN
-#https://krtv.site/kakotvlive/kakotvlive27/ocn.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=PrqoQCvTSMHCbYJxID74xAc3NKuScy5PRuM1xirg&secret=562fb04d97cad7f46e7b55f63214df25&time=1747425397
-#EXTINF:-1,OCN Movies
-#https://krtv.site/kakotvlive/kakotvlive27/ocnmovies2.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=ITjFbSesTCA6lhGQOkb3FkEBcBDIkkRJMIxUQdCp&secret=5d308748415770c93f1f9f0c0ed6e8b6&time=1747425455
-#EXTINF:-1,OCN Movies2
-#https://krtv.site/kakotvlive/kakotvlive27/ocnmovies.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=QPacI6i2eH4RJ3EUx6gV4cCyzBRIBmJJyITwSCrN&secret=20e95b15862eb7628d7e1db6ef6dff2d&time=1742502255
-#EXTINF:-1,CJ ENM Movie
+#EXTINF:-1,tvg-id="tvN.kr", tvN
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7b7lEJOhDPdf73ybY6pfvVRIgfLu0oot2NqYDDub&secret=3fe3870fe72a7c5de444eb4d3c456875&time=1765891821
+#EXTINF:-1,tvg-id="KBS1.kr", KBS1
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
+#EXTINF:-1,tvg-id="KBS2.kr", KBS2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs2_540&sid=AyMBt8STQi7J8FnSd0PeQSXX6kQBHrmnVJljjl8w&secret=b232cc97122ea9f507475b72065f7562&time=1765891904
+#EXTINF:-1,tvg-id="MBC.kr", MBC
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_540&sid=IpaGWtS1yBSO7JUbq1qO5wzVEOxA49k1jXoRVIbD&secret=a359917fe5cd684f8a1b9e21443c4710&time=1765891937
+#EXTINF:-1,tvg-id="SBS.kr", SBS
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_540&sid=nfOYdJXzncD8lRHzh71jjNMMPF1wpIzAUSc7gVY6&secret=8a4fe706f9cd8c91ecf75cf53f77f08f&time=1765891975
+#EXTINF:-1,tvg-id="EBS.kr", EBS 
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=ebs_1_540&sid=vHyUZnRhksnBekpuSNsyewg7y2zjV8qPW9aLSrke&secret=8db7c58ae15873a118931b3c91cead09&time=1765892008
+#EXTINF:-1,tvg-id="EBS2.kr", EBS2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=ebs_2_540&sid=jvgMIYZC8L1lM4iQeyaEBEmSmsp4Da1x24JbbVwh&secret=6d24fd40d06020266561930e77cea1f3&time=1765892041
+#EXTINF:-1,tvg-id="JTBC.kr", JTBC 
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
+#EXTINF:-1,tvg-id="OCN.kr", OCN
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=ocn_540&sid=Kzva5s9JEaykYao4PPATIBRAQCnFpeuMJVFmc2Hg&secret=97dd5ae044fab89295c839063830d610&time=1765892105
+#EXTINF:-1,tvg-id="OCN Movies.kr", OCN Movies
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
+#EXTINF:-1,tvg-id="OCN Movies2.kr", OCN Movies2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
+#EXTINF:-1,tvg-id="CJ ENM Movie", CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
-#https://pip-hlslive-sstv-xcdn.pip.cjenm.com/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8
-#EXTINF:-1,PLAYY
+#EXTINF:-1,tvg-id="PLAYY", PLAYY
 https://jmp2.uk/stvp-KR12000017G
-#https://84248324f40742bf8a3cf1c74fd5a7d6.mediatailor.ap-northeast-2.amazonaws.com/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6py970jrrfeoa/e6a94d5d-e454-4065-96cb-5db3aeec3c41/1.m3u8
-#EXTINF:-1,YTN
+#EXTINF:-1,tvg-id="YTN.kr", YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#https://live-edge-th136.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
-#EXTINF:-1,뉴스Y
+#https://live-114.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
+#EXTINF:-1,tvg-id="연합뉴스TV.kr", 연합뉴스
 https://live-114.myjktv.com:443/watch/live.m3u8?video=newsy_540&sid=DzpUFHjcsBWVT59UIekH9Ru1NlsNITdMENCIwOYj&secret=627df873aaaabccbbfacb5cf54826ff2&time=1742500601
-#https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_216_AB271679.m3u8
-#EXTINF:-1,tvN Sports
-#https://krtv.site/kakotvlive/kakotvlive27/tvnsports.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=8LbyMvKsXavagjD6y1ZNlDZMivTbD8w8Ylaki0aF&secret=4f3264b31cd2376538d9af4207f9be85&time=1745187636
-#EXTINF:-1,KBSNSPORTS
-#https://krtv.site/kakotvlive/kakotvlive27/koreansports.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=2d4lU588IfghL2opd7HM63yE2wS8H52ARHw5HXRQ&secret=2352918e6d64f698127757fa594e1ff4&time=1742500742
-#EXTINF:-1,MBC SPORTS
-#https://krtv.site/kakotvlive/kakotvlive27/mbcnsports.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=9bv6hEGMpr1RCdE1DpMiWx2PrX8a8kKE1GMt0dJ6&secret=acef719ee24b555d553a928126e2bbd1&time=1742500830
-#EXTINF:-1,SKY SPORTS
-#https://krtv.site/kakotvlive/kakotvlive27/skysports.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=izUD3XjpFBIK6xFNQ1BcgBGH5Ldy0HVkyD5UoRSO&secret=63f2413d9711c04b1a825c8e733a5204&time=1756907428
-#EXTINF:-1,SBS SPORTS
-#https://krtv.site/kakotvlive/kakotvlive27/sbssports.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=XMv6aPlBrU1o23QTwnURWnfHoRT7hOQ8nwH7wK9H&secret=849647c33502f9f8d1a1d67e20719008&time=1742501076
-#EXTINF:-1,SBS GOLF
+#EXTINF:-1,tvg-id="tvN SPORTS.kr", tvN SPORTS
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=olivetv_540&sid=wvxGUVKUC8ecPNnlMMafXfMuPSCWW35YiGMxLKpv&secret=d9f6c7f86d334a9e721268b15d04f870&time=1765891767
+#EXTINF:-1,tvg-id="KBS N Sports.kr", KBS N SPORTS
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=lkQCgUJXxH2vNQDwjbA9vvJLDmUl95x5WGNDg4kC&secret=0742366f04974647047748e2f2c60f53&time=1765891722
+#EXTINF:-1,tvg-id="MBC SPORTS+.kr", MBC SPORTS
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_sports_540&sid=POxYPQ43PhrNZ8GskNfoG7byfjHxe7z93rrViHoU&secret=e2184c649e9eabbdeda2bb0e75c5abac&time=1765891315
+#EXTINF:-1,tvg-id="SkySports.kr", ENA SPORTS
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=sky_sports_540&sid=e5wpHcNgMggtHH1tdi4BbnB1UKETMkTzPy38oNNr&secret=83393a0ecf2798cad65cf7963a2f2d12&time=1765891354
+#EXTINF:-1,tvg-id="SBS Sports.kr", SBS SPORTS
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_sports_540&sid=ILsETd2qxAIReYV767tJgxtvn5VKOcdUt3X1Bzp7&secret=61a855e91a66a97bcbdb9812f8b10b7c&time=1765891394
+#EXTINF:-1,tvg-id="SBSGOLF.kr", SBS GOLF
 https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_golf_540&sid=8No4oKWpRJMbb9rsAuWQ75ACx37sUj3gRkeLupvY&secret=72464b0ac707bb73f4d46a2e1082e64f&time=1748029685
-#EXTINF:-1,JTBC GOLF
-http://211.110.63.98/jtbcgolf1/_definst_/8C4A78EB4291B2BA8795B9AF907E8A9B28DBF956ADF0AB46A0C5E48207BC8773/chunklist_w1885910863.m3u8
-#https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=jtbc%EA%B3%A8%ED%94%84-sll&channel_id=newid_186&mpf=eec738cc-39af1962-156fbea7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=9df66c43-bafcde1a-7fa38277-19be2399&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#EXTINF:-1,JTBC GOLF&SPORTS
+#EXTINF:-1,tvg-id="SBSGOLF2.kr", SBS GOLF2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
+#EXTINF:-1,tvg-id="JTBC Golf.kr", JTBC GOLF
+https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=cyNOJfMG4XdPSNZgelsX20LO6JIswmwBogQuhi5w&secret=c3387bb24ccfdd0e6ff593ba600ab7ca&time=1742501236
+#EXTINF:-1,tvg-id="JTBC GOLFandSPORTS.kr", JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
-#EXTINF:-1,PGA Tour
+#EXTINF:-1,tvg-id="SPOTV Golf&Health", SPOTV Golf&Health
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=ltn6ql2VEBASSGQmB2Q6UlcDs6BJYAgNf8xQFOmu&secret=0056208f6c8c1f2b1fb4384ef32bc2e3&time=1765891443
+#EXTINF:-1,tvg-id="PGA Tour", PGA Tour
 https://jmp2.uk/stvp-KRBD3100007WB
-#http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ac630-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6c2b7359-0375-4f34-996b-4fb9429ead78
-#EXTINF:-1,스크린골프
+#EXTINF:-1,tvg-id="스크린골프존.kr", 스크린골프
 https://jmp2.uk/stvp-KR44000010Y
-#EXTINF:-1,JTBC3
-#https://krtv.site/kakotvlive/kakotvlive27/jtbc3.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
-#EXTINF:-1,SPOTV
-#https://krtv.site/kakotvlive/kakotvlive27/spotv.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=w9sTaDbkcNRJ1Op6LvowKsB9qiIwEXaLK6jQmc9a&secret=700a37478a2572879ff8a64e7e43faa9&time=1742501358
-#EXTINF:-1,SPOTV2
-#https://krtv.site/kakotvlive/kakotvlive27/spotv2.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=JCn330xSXpDUtieRguQzRx0q5D2azRNty2G69TqK&secret=a8bf52caed9a7411a14c3dbcaf4f70b4&time=1742501441
-#EXTINF:-1,SPOTV Prime
-#https://krtv.site/kakotvlive/kakotvlive27/spotvprime.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=V1R87ydx8jeZbnselXMKDBx9IPKMXNa5Zv7Iqv31&secret=79ee49d5533da8320bdd61ec92cd4ded&time=1742501589
-#EXTINF:-1,SPOTV On
-https://live-114.myjktv.com:443/watch/live.m3u8?video=spotv_on_540&sid=khuvDUGA5oq5SVN9qUTdlNpFKsr85NI7poL0OHU7&secret=4b9ae05ec416ae0275d3cee4511e7f7b&time=1742501659
-#EXTINF:-1,BilliardsTV
-https://live-114.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=dhbSSmqXjzcAIi6TV9nwpPQYU97Q5dFXLAFrT4EA&secret=7b49ace0e217934036273cc10a61f817&time=1742501837
-#EXTINF:-1,IB SPORTS
-https://live-114.myjktv.com:443/watch/live.m3u8?video=jtbc_3_540&sid=Apn7LTiUje3L7FmQObTgYnKBNeDUDytdiUSkqYw1&secret=7e6facc78d8f68a85388b1945d966a04&time=1742501522
-#EXTINF:-1,SKY SPORTS F1
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
-#EXTINF:-1,OGN starleague
+#EXTINF:-1,tvg-id="SPOTV.kr", SPOTV
+ttps://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_540&sid=NV3u8ksyqK92z938RZFBkv2YbPVJAMLA6kwyTOLJ&secret=e9d4f0a64292fabf306ba48f62275fa0&time=1765891235
+#EXTINF:-1,tvg-id="SPOTV2.kr", SPOTV2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_2_540&sid=6Os571NBiR8XVEhIx6diM3X01l5UsPRTzvBWMF53&secret=75e5132e9ae7097fd4dcb9ff1a881527&time=1765892545
+#EXTINF:-1,tvg-id="SPOTV PRIME+ 유료.kr", SPOTV Prime+
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_prime_540&sid=qyI7BM30mUHBJ16jx15KF2NMLVTKKEhI9ZhSC23Y&secret=a8100c7415537e5da2db40962181614a&time=1765892590
+#EXTINF:-1,tvg-id="SPOTV PRIME 유료.kr", SPOTV Prime
+https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy6PNLmk1Sg1dVK1CKw2tkgZBj7nL&secret=dbbfb4a09b4bd1c862748c947b533db6&time=1765892639
+#EXTINF:-1,tvg-id="SPOTV PRIME2 유료.kr", SPOTV Prime2
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
+#EXTINF:-1,tvg-id="Billiards TV", BilliardsTV 
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
+#EXTINF:-1,tvg-id="OGN starleague", OGN starleague
 https://jmp2.uk/stvp-KRBC3200005SH
-#EXTINF:-1,MNet
+#EXTINF:-1,tvg-id="Mnet.kr", MNet
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
-#EXTINF:-1,tvN Show
-#http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01141&q=FHD&apikey=5MY50EII66
-https://live-114.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=wR1QTGj0fFaQn3wBtsFhhWN7UA41PTwJyTbKntvU&secret=af9e9bbf95a8071899bdee00d178ffbf&time=1742502367
-#EXTINF:-1,ENA
-#https://krtv.site/kakotvlive/kakotvlive27/ena.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=tLqu4O06OBUd42Bf6pQzEj5iFGeblET7JuLcQfc7&secret=9b1bada69fe289f71ac1e24e8376b857&time=1742501919
-#EXTINF:-1,MBC every1
+#EXTINF:-1,tvg-id="tvN SHOW.kr", tvN SHOW
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93FgzI7OGAdeeXCXGw4BXFPzQo&secret=a9025939f2d1e981d2020031a966729e&time=1765893046
+#EXTINF:-1,tvg-id="ENA.kr", ENA
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+#EXTINF:-1,tvg-id="MBC Every1.kr", MBC Every1
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 #https://live2.mbcmpp.co.kr/etc2/_definst_/every1/chunklist_w1526537521.m3u8
-#EXTINF:-1,SBS Plus
-#https://krtv.site/kakotvlive/kakotvlive27/sbsplus.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=syCIAWw5LA5R9EkVZhUAQgU7aMIoy8ojVwul0T1b&secret=406c160188ee60dacd0829b4d801fc2e&time=1742560026
-#EXTINF:-1,Channel E
+#EXTINF:-1,tvg-id="SBS Plus.kr", SBS Plus
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=sbs_plus_540&sid=PSGAnCYbuV5h5n957kwavdsTd1M9EtFZwsixuxcN&secret=703094f919241535d243917621af3c53&time=1765893212
+#EXTINF:-1,tvg-id="E채널.kr", E Channel
 https://live-114.myjktv.com:443/watch/live.m3u8?video=channel_e_540&sid=y8c3beG6YJJDp9UMDq1kKSrl1NC0wY4mjXGAlZP6&secret=9ae1c63d7157e00c9298122b44e8e081&time=1742560086
-#EXTINF:-1,tvN STORY
+#EXTINF:-1,tvg-id="tvN STORY.kr", tvN STORY
 https://jmp2.uk/stvp-KRBC3200014XZ
-##EXTINF:-1,ENA DRAMA
-#https://stream.ogtv2.com/live/live1019.m3u8
-#EXTINF:-1,tvN DRAMA
+#EXTINF:-1,tvg-id="tvN DRAMA.kr", tvN DRAMA
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
-#https://stream.ogtv2.com/live/live1020.m3u8
-#EXTINF:-1,KBS Drama
+#EXTINF:-1,tvg-id="KBS Drama.kr", KBS Drama
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_drama_540&sid=q3B5WSCH4URY8GiHOmAi4YrNVPWKot9vVlo9Vif3&secret=af52b1a2db7f1a11eee422a86931dfa4&time=1742559860
-#EXTINF:-1,코메디TV
+#EXTINF:-1,tvg-id="코미디TV.kr", 코미디TV
 https://live-114.myjktv.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
-#EXTINF:-1,MBC On
-#https://krtv.site/kakotvlive/kakotvlive27/mbcon.php
-https://live-114.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=1n0TiOLYplMhPQUiUnKKf3j1UuULzQWKwPSDBrkt&secret=0a8915eba29dd2179cd38d8f7fb004ba&time=1742502620
-#EXTINF:-1,중화TV
-https://live-114.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=ZhoPSyCssGAH4bZqbgtiLGY2RRNtZkpxdNaqJ59Z&secret=d61b57728a4807c259df2dad974b8d5b&time=1742555489
-#EXTINF:-1,바둑TV
-https://live-114.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=BUdcXyBWIi9dQgC9QbarQyw1r2Punh3ScBDyvPkx&secret=46f15e2f7aa89b944adadb345e1d66af&time=1742555602
-#EXTINF:-1,브레인TV
-https://live-114.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=pXLsKDVuSzSlCPzDBtZ3Tjp06jRx0Cjb6hMFnxt4&secret=1f34a19c2968298e793fc294a26ec99c&time=1742555675
-#EXTINF:-1,FTV
+#EXTINF:-1,tvg-id="MBC ON.kr", MBC On
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=mbc_on_540&sid=eTTqEJ0bwgsl4WbHyEWCbu1C6Rs7ntHJaCUcq09S&secret=56c57029ef6aa1e04a3895d8b6c91506&time=1765893385
+#EXTINF:-1,tvg-id="중화TV.kr", 중화TV
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=chinesetv_540&sid=1zs8m9CsajpMXxNHeDJLmhn3wq0LUcYJYGwjgXJW&secret=03f7beff894c6917da6b82372a2fc208&time=1765893417
+#EXTINF:-1,tvg-id="바둑TV.kr", 바둑TV
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=LPrku9OjvDYvHrX7BojWXG1dC7AgHnN2WRxy9UFJ&secret=cb9907778835b1c310350f82deabef9f&time=1765893443
+#EXTINF:-1,tvg-id="브레인TV.kr", 브레인TV
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=z4iXXRtBCd6B8oaMP4T2AvM2WNp5PNrypWn2qbWt&secret=0c04ddc2c268db11984a3241f38e5e25&time=1765893473
+#EXTINF:-1,tvg-id="FTV.kr", FTV
 https://live-114.myjktv.com:443/watch/live.m3u8?video=ftv_540&sid=bZKhHcxaPkJGE3mmH8UPN66ooPuufcWyGBuvtjTO&secret=5d91e5de24f5cb3123ee6e659939bdb5&time=1742555798
-#EXTINF:-1,네셔날지오그래피
+#EXTINF:-1,tvg-id="네셔날지오그래피", 네셔날지오그래피
 https://live-114.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
-#EXTINF:-1,디스커버리
+#EXTINF:-1,tvg-id="Discovery Channel.kr", 디스커버리
 https://live-114.myjktv.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
-#EXTINF:-1,Nat Geo Wild
+#EXTINF:-1,tvg-id="Nat Geo Wild", Nat Geo Wild
 https://live-114.myjktv.com:443/watch/live.m3u8?video=nat_geo_wild_540&sid=0wJqyjtLKS6wxrUnZ6cnaRHDVz6ztklaA1tOzALv&secret=8a3bcec4a32f89003264607c049a2ce3&time=1742556081
-#EXTINF:-1,History
+#EXTINF:-1,tvg-id="History.kr", History
 https://live-114.myjktv.com:443/watch/live.m3u8?video=history_540&sid=ktDYnxAlcjz7V3RTfpIGFtr5pGjLTXXbuEqQQTjG&secret=fa393d7a7f8b5c570fa9a02d67e5ddb8&time=1742556221
-#EXTINF:-1,iNET
+#EXTINF:-1,tvg-id="아이넷TV.kr", iNET
 https://live-114.myjktv.com:443/watch/live.m3u8?video=inet_540&sid=OPbFOFpoTQ729gz3U05zWdlE920QJze3POZPfHuO&secret=5121ac51f8f56d26f013a0db2cbe06e9&time=1742556350
-#EXTINF:-1,JEI 재능TV
+#EXTINF:-1,tvg-id="JEI 재능TV.kr", JEI 재능TV
 https://live-114.myjktv.com:443/watch/live.m3u8?video=jei_jenung_540&sid=5x1n6FyzRQMkri2LhZ71Mjao59LSpdVKNNnvDkJW&secret=1fd8004ee3d2c119d064ec88b38d97b3&time=1742556811
-#EXTINF:-1,육아방송
+#EXTINF:-1,tvg-id="육아방송.kr", 육아방송
 https://live-114.myjktv.com:443/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
-#EXTINF:-1,뽀요 TV
+#EXTINF:-1,tvg-id="뽀요TV.kr", 뽀요 TV
 https://live-114.myjktv.com:443/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
-#EXTINF:-1,KBS kids
+#EXTINF:-1,tvg-id="KBS Kids.kr", KBS kids
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvFwNcDZn2ZKO972L101Y0O54pvVUu&secret=e5d3211063e265afd0cd9f542d9d3de2&time=1742557009
-#EXTINF:-1,Toonivers
-https://live-114.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=eCxHR168RlUUkQqYOIWVyWfIUxPu06nBlSxHIO46&secret=96b99d3a3fdfca5375de61e8c24350b4&time=1742557506
-#EXTINF:-1,Cartoon
-https://live-114.myjktv.com:443/watch/live.m3u8?video=cartoon_network_540&sid=RyguKlLteLqv9rk0RS2MXuF7i1rMwPylYuihkE8h&secret=285476c7f0a52c71c066532526326dde&time=1742558094
-#EXTINF:-1,어린이TV
-https://live-114.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=bacS5e2f2oSXK0Jq8h8erviPliIz00vJqZSDx7AV&secret=e37983794947e47b83649a92de60f3da&time=1742558216
-#EXTINF:-1,ANIPLUS
+#EXTINF:-1,tvg-id="Tooniverse.kr", Toonivers
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=tooniverse_540&sid=fbO9zMMKvUK35ijl9bZvvQFp551em1yMeN1SOcoc&secret=924360c5677f057f590ce2c9ebd64710&time=1765893550
+#EXTINF:-1,tvg-id="카툰네트워크.kr", Cartoon
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=cartoon_network_540&sid=dj1j7ZwSpiH5c1N1fLleTOkPntdpLhIzv2GOzvpa&secret=17b623f405a674a01727e56b561e36a0&time=1765893515
+#EXTINF:-1,tvg-id="대교 어린이TV.kr", 어린이TV
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=childrens_tv_540&sid=GG1bfBvi36wnK62vXixEL1VPInMZRWJGrJENstKL&secret=0cb8542f641b3a6d55bebb13a87d4aed&time=1765893151
+#EXTINF:-1,tvg-id="애니플러스.kr", ANIPLUS
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C00901&q=FHD&apikey=5MY50EII66
-#EXTINF:-1,CNN
+#EXTINF:-1,tvg-id="CNN International.kr", CNN
 https://live-114.myjktv.com:443/watch/live.m3u8?video=cnn_kr_540&sid=7ySL8aoIyy2NPbS1ENkvzkgj9C3GvJq2bdQ7PneQ&secret=0477f93d5d7e29a87ad3482bd1ecf100&time=1742558366
-#EXTINF:-1,BBC
+#EXTINF:-1,tvg-id="BBC News.kr", BBC
 https://live-114.myjktv.com:443/watch/live.m3u8?video=bbc_kr_540&sid=NvDfJvaZ3zU7NbrHR43AaUgWJK2zdoOc8KCQzTll&secret=aa2b347766700a37e0d86da63886687d&time=1742558446
-#EXTINF:-1,NHK World
+#EXTINF:-1,tvg-id="NHK WP.kr", NHK World
 https://live-114.myjktv.com:443/watch/live.m3u8?video=nhk_wold_540&sid=VQ5jdk6wCPjw6VcPfOv76Syot6CoP9YgzBLFeHjZ&secret=a86dad9133b53ffc834fe98b63c98919&time=1742558568
-#EXTINF:-1,TV조선
+#EXTINF:-1,tvg-id="TV조선.kr", TV조선
 https://live-114.myjktv.com:443/watch/live.m3u8?video=tvchosun_540&sid=fKZsnPIjdoVZrjIWsqL5dPcQwba75T2ANFPAQIih&secret=18d00e092d1f8fa5a6107f0328ff4972&time=1742500050
-#EXTINF:-1,채널A
+#EXTINF:-1,tvg-id="채널A.kr", 채널A
 https://live-114.myjktv.com:443/watch/live.m3u8?video=channela_540&sid=zLhHxUtd4yz2toiohNMEfx63yhemDSOd2xgsFaBV&secret=ad760dc9b77c911e341d5e114e36feff&time=1742500133
-#EXTINF:-1,MBN
+#EXTINF:-1,tvg-id="MBN.kr", MBN
 https://live-114.myjktv.com:443/watch/live.m3u8?video=mbn_540&sid=JrgTsnJKQo0TU9yiyoZf7eA9llHJEMpTQlgyggsJ&secret=68b0e61613ec8fda51fd248052b6aa69&time=1742500229
-#EXTINF:-1,한국경제
+#EXTINF:-1,tvg-id="한국경제TV.kr", 한국경제
 https://live-114.myjktv.com:443/watch/live.m3u8?video=wowtv_540&sid=78aYN4ktf0r1dt55tnyXZwly6i1geE6psoDdZvce&secret=d1de772e9eeb5dcf1636c239f633cdb2&time=1742500679
-#EXTINF:-1,현대홈쇼핑
+#EXTINF:-1,tvg-id="현대홈쇼핑.kr", 현대홈쇼핑
 https://live-114.myjktv.com:443/watch/live.m3u8?video=hyundaih_mall_540&sid=kRIZglDoTkTX95OSEfXY5VUZFpfFq6cVReRRuWSR&secret=fb19ea96320fbea13ea32914018bf9af&time=1742560145
