@@ -1,7 +1,6 @@
 #EXTM3U8
 #EXTINF:-1,tvg-id="tvN.kr", tvN
-https://live-114.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=oj1ssh7rr7bDqtSgQhIXTXPy1bKEQgYoGEtUDiL8&secret=214fb7e602c0dc5fbc45f46927cd140d&time=1748048055
-#https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=7b7lEJOhDPdf73ybY6pfvVRIgfLu0oot2NqYDDub&secret=3fe3870fe72a7c5de444eb4d3c456875&time=1765891821
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
 #EXTINF:-1,tvg-id="KBS2.kr", KBS2
@@ -100,8 +99,8 @@ https://live-th10.myjktv.com:443/watch/live.m3u8?video=baduk_540&sid=LPrku9OjvDY
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=brain_tv_540&sid=z4iXXRtBCd6B8oaMP4T2AvM2WNp5PNrypWn2qbWt&secret=0c04ddc2c268db11984a3241f38e5e25&time=1765893473
 #EXTINF:-1,tvg-id="FTV.kr", FTV
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=ftv_540&sid=6RPjuu8hzNESESu6ZqL0GZ6LvgJipWnDyobzV8dY&secret=262db54492c46ab76dce040f93621f46&time=1772754633
-#EXTINF:-1,tvg-id="네셔날지오그래피.kr", 네셔날지오그래피
-https://live-th10.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
+##EXTINF:-1,tvg-id="네셔날지오그래피.kr", 네셔날지오그래피
+#https://live-th10.myjktv.com:443/watch/live.m3u8?video=national_540&sid=Frw4dKWvqJLBjvHgByjOVO1M8zkSD6LjvUABHvLS&secret=5c8e0f0753609c3db02f0a5a0786ccd1&time=1742555875
 #EXTINF:-1,tvg-id="Discovery.kr", 디스커버리
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=discovery_540&sid=2iObz48WCFCkHcuaQTRez5kpeHPfdHYiOE1icCKS&secret=660b5a2059948553effae93e4def6d04&time=1742555991
 #EXTINF:-1,tvg-id="NatGeoWild.kr", Nat Geo Wild
@@ -115,7 +114,7 @@ https://live-th10.myjktv.com:43/watch/live.m3u8?video=jei_jenung_540&sid=5x1n6Fy
 #EXTINF:-1,tvg-id="육아방송.kr", 육아방송
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=child_care_540&sid=MCMbs5pnRCoyIVAPtv5g0MRDu11MEoQNUSSpZfsk&secret=706abe245cd1b8483e082c3ee34c19b3&time=1742556877
 #EXTINF:-1,tvg-id="뽀요TV.kr", 뽀요 TV
-hhttps://live-th10.myjktv.com:443/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
+https://live-th10.myjktv.com:443/watch/live.m3u8?video=disney_channel_540&sid=f6coDFH9FZGv5Tl9FZinkVetugwWFq3RjSfNJIWl&secret=c0c2de490583ac54b9710cc8ac2a8636&time=1742556938
 #EXTINF:-1,tvg-id="KBSKids.kr", KBS kids
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvFwNcDZn2ZKO972L101Y0O54pvVUu&secret=e5d3211063e265afd0cd9f542d9d3de2&time=1742557009
 #EXTINF:-1,tvg-id="투니버스.kr", Toonivers
