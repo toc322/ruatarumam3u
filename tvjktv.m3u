@@ -67,6 +67,8 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on_540&sid=EQlmnOkHl5Esy
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV2IWGvrm9eDXXDpgeD452TYwz27ds&secret=22948804ea0eaae93297a9a5b766ef95&time=1765892812
 #EXTINF:-1,tvg-id="BilliardsTV.kr", BilliardsTV 
 https://live-th10.myjktv.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
+#EXTINF:-1,tvg-id="SkysportsF1.kr", Skysports F1
+https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=Br5URhDulDNVzAtwJhUHgA&e=2072611046&scheme=https
 #EXTINF:-1,tvg-id="OGNstarleague.kr", OGN starleague
 https://jmp2.uk/stvp-KRBC3200005SH
 #EXTINF:-1,tvg-id="Mnet.kr", MNet
