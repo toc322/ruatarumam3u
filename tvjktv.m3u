@@ -67,7 +67,7 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV
 #EXTINF:-1,tvg-id="BilliardsTV.kr", BilliardsTV 
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
 #EXTINF:-1,tvg-id="SkysportsF1.kr", Skysports F1
-https://bl.rutube.ru/livestream/e5df6984021365a58b3ba22dab2f670a/index.m3u8?s=Br5URhDulDNVzAtwJhUHgA&e=2072611046&scheme=https
+https://iptv.707626.xyz/ch/fcd24cf47abdfbe546a3f5c418b2e15a/master.m3u8
 #EXTINF:-1,tvg-id="OGNstarleague.kr", OGN starleague
 https://jmp2.uk/stvp-KRBC3200005SH
 #EXTINF:-1,tvg-id="Mnet.kr", MNet
@@ -77,7 +77,8 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93Fg
 #EXTINF:-1,tvg-id="ENA.kr", ENA
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
 #EXTINF:-1,tvg-id="MBCEvery1.kr", MBC Every1
-https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+#https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
+https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6A917B1373593A54DD45256F36F17141D5E03385AA08120735F0D2aBD6333436A7a353BE3B921E48007C3A7158b4A1C648E0571506D022771BB3AE800D22389BA754E0D07FF86AD8F39EB11AD7EF6C7DFCFEAB6557E9B448BFB71CC0ED7A444C4EB8C57900F0416BB6783462DE7FC654F0F1D92F90F8746BDB1DC04DFB2E7E66&v=3
 #EXTINF:-1,tvg-id="SBSPlus.kr", SBS Plus
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_plus_540&sid=PSGAnCYbuV5h5n957kwavdsTd1M9EtFZwsixuxcN&secret=703094f919241535d243917621af3c53&time=1765893212
 #EXTINF:-1,tvg-id="E채널.kr", E Channel
