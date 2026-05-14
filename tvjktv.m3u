@@ -125,7 +125,7 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvF
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=tooniverse_540&sid=fbO9zMMKvUK35ijl9bZvvQFp551em1yMeN1SOcoc&secret=924360c5677f057f590ce2c9ebd64710&time=1765893550
 #EXTINF:-1,tvg-id="애니맥스.kr", 애니맥스
 https://sogne-live.tving.com/animax/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome%20headless_2.18.12_hlsjs&sgn.osn=linux&sgn.osv=aarch64&sgn.brn=Chrome%20Headless&sgn.brv=120.0.6099.28&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzg4NDUzODQsInN1YiI6Ii9hbmltYXgvKiIsInZ4ciI6NjAwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJHLUNvcmUgTGFicyBTQSIsIm1kbCI6ImxpbnV4X2Nocm9tZSBoZWFkbGVzc18xMjAuMC42MDk5LjI4In0.0jQHfRgx0x9Cv7urmRjkdYk7jWpK225gW9uuNwMlwVA&ads.age=0&ads.asn=199524&ads.channel_code=C04042&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=272799212&ads.program_code=P001781260&ads.targeting=1&ads.tier_group=non_tier
-#EXTINF:-1,tvg-id="ANIBOX.kr", ANIBOX
+#EXTINF:-1,tvg-id="애니박스.kr", ANIBOX
 https://anibox-live-mcdn.tving.com/anibox/live2000.smil/medialist_12498461171292152190_hls.m3u8
 #EXTINF:-1,tvg-id="카툰네트워크.kr", Cartoon
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=cartoon_network_540&sid=dj1j7ZwSpiH5c1N1fLleTOkPntdpLhIzv2GOzvpa&secret=17b623f405a674a01727e56b561e36a0&time=1765893515
