@@ -85,10 +85,10 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_plus_540&sid=PSGAnCYbuV5h5
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=channel_e_540&sid=73MxlHL2gH7316d8Pep1sEorvOjeAEUV4LbFxupT&secret=29e942a9896054ebeb9dcaa0a83dbc74&time=1772754436
 #EXTINF:-1,tvg-id="tvNSTORY.kr", tvN STORY
 #https://jmp2.uk/stvp-KRBC3200014XZ
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6bc4668b153d786553381d0ec/vc1_video_stream4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzg4NDQwMjgsInBhdGgiOiIvbzIifQ.zOlBlVF9uO3yQr208X0teoiHMzZ5ONgXe-DByFHbp-s
+https://backup.760515.xyz/playlist/tvN STORY-playlist.m3u8
 #EXTINF:-1,tvg-id="tvNDRAMA.kr", tvN DRAMA
 #http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01143&q=FHD&apikey=5MY50EII66
-https://tving-live-o2-xcdn.tving.com/o2/v1/019d663b5fa81eb80e796d9bd9ca6/019d6643c8aa153d786553381d0d3/vc1_video_stream4.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3Nzg4NDM5MzQsInBhdGgiOiIvbzIifQ.t1_SrCTFMXbmY7u1BbMmubJ1IXxOBl-ljmGoqt8iNkc
+https://backup.760515.xyz/playlist/tvN DRAMA-playlist.m3u8
 #EXTINF:-1,tvg-id="KBSDrama.kr", KBS Drama
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_drama_540&sid=paKP8quwQXA1v3f8CDgxH6h7IfCezfoMX4CPYs9i&secret=0f3e15ed586d8b39e2197abcdaa39726&time=1772754511
 #EXTINF:-1,tvg-id="코미디TV.kr", 코미디TV
@@ -124,9 +124,9 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_kids_540&sid=6GIrIVmGxADvF
 #EXTINF:-1,tvg-id="투니버스.kr", Toonivers
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=tooniverse_540&sid=fbO9zMMKvUK35ijl9bZvvQFp551em1yMeN1SOcoc&secret=924360c5677f057f590ce2c9ebd64710&time=1765893550
 #EXTINF:-1,tvg-id="애니맥스.kr", 애니맥스
-https://sogne-live.tving.com/animax/live5000.smil/chunklist_b2128000.m3u8?sgn.pf=chrome%20headless_2.18.12_hlsjs&sgn.osn=linux&sgn.osv=aarch64&sgn.brn=Chrome%20Headless&sgn.brv=120.0.6099.28&sgn.pln=Hls.js&sgn.plv=2.18.12&sgn.dvm=PC&sgn._sb=1&sgn._cn=ostream-mcdn&sgn.token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3Nzg4NDUzODQsInN1YiI6Ii9hbmltYXgvKiIsInZ4ciI6NjAwLCJkcm0iOmZhbHNlLCJ3bWkiOiIiLCJzY2MiOiJDU1NEMDEwMCIsIm9zYyI6IkNTT0QwOTAwIiwiZG10Ijoic3QiLCJpc3AiOiJHLUNvcmUgTGFicyBTQSIsIm1kbCI6ImxpbnV4X2Nocm9tZSBoZWFkbGVzc18xMjAuMC42MDk5LjI4In0.0jQHfRgx0x9Cv7urmRjkdYk7jWpK225gW9uuNwMlwVA&ads.age=0&ads.asn=199524&ads.channel_code=C04042&ads.floor_price=7900&ads.gender=2&ads.grade_code=CPTG0100&ads.is_kids_content=false&ads.product_id=www.tving.com&ads.profile_no=272799212&ads.program_code=P001781260&ads.targeting=1&ads.tier_group=non_tier
+https://backup.760515.xyz/playlist/애니맥스-playlist.m3u8
 #EXTINF:-1,tvg-id="애니박스.kr", ANIBOX
-https://anibox-live-mcdn.tving.com/anibox/live2000.smil/medialist_12498461171292152190_hls.m3u8|Cookie=key=CloudFront-Key-Pair-Id=APKAIXCIJCFRGOUEZDWA;CloudFront-Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Iio6Ly9hbmlib3gtbGl2ZS1tY2RuLnR2aW5nLmNvbS9hbmlib3gvbGl2ZTIwMDAuc21pbCoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3Nzg4NDUyODh9LCJJcEFkZHJlc3MiOnsiQVdTOlNvdXJjZUlwIjoiMC4wLjAuMC8wIn19fV19;CloudFront-Signature=Sp7XgOQC4w0Q-KaO6Wrj2Hq1y7hIISJu~xAUslGTqFDglohInDkKJb2tGvWHdnsp34kxKV2D1b2a7b4d58LIiL5EJXuKspRKhbfWbl7SzW8Qf1zAnqGjbo1bqAt~XOQgbR75D1yExvBLr9z-o5af7296Iurz~5a2wECmfMYLrM-hDahDEjj8mG88ggsuUKy5ANtwQS6UWxzGlmZysy-Jac7DJ7r76DBQjdPfqbTbxLgGXHA1avKOJVO41sV6tWt0zlgR5IB4wS8m~CvF~KPX898TZlEhdKreWNQTqvRvWWrZPGgksrdF4-quDA5C4DWG58VhBwlqz7lpNXZusm4qnA__;
+https://backup.760515.xyz/playlist/ANIBOX-playlist.m3u8
 #EXTINF:-1,tvg-id="카툰네트워크.kr", Cartoon
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=cartoon_network_540&sid=dj1j7ZwSpiH5c1N1fLleTOkPntdpLhIzv2GOzvpa&secret=17b623f405a674a01727e56b561e36a0&time=1765893515
 #EXTINF:-1,tvg-id="대교어린이TV.kr", 어린이TV
