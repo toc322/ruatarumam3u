@@ -48,7 +48,7 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=sky_sports_540&sid=e5wpHcNgMgg
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_sports_540&sid=ILsETd2qxAIReYV767tJgxtvn5VKOcdUt3X1Bzp7&secret=61a855e91a66a97bcbdb9812f8b10b7c&time=1765891394
 #EXTINF:-1,tvg-id="SBS.Golf.kr", SBS GOLF
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_golf_540&sid=GL5kkVROZTJ18fuJkn4g33UsnCVEtuUyqSgZLcai&secret=061012f18a638c3b009b3978c09e032c&time=1772754283
-#EXTINF:-1,tvg-id="SBS.Golf2.kr", SBS GOLF2
+#EXTINF:-1,tvg-id="SBSGolf2.kr", SBS GOLF2
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=jtbc_3_540&sid=axuIWQCoNScP3na4YDca5wkntDjptTjJxCrgZQtS&secret=da7b334a488673d5ee74ee07c1a561df&time=1765892423
 #EXTINF:-1,tvg-id="JTBC.Golf.kr", JTBC GOLF
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=jtbc_golf_540&sid=tsI4MtYdf0NkahvQH5htgrTyYBAMvPlcYyucRaaE&secret=d61a1c8d2e94ff376e7edd6ddfd8d7be&time=1772754325
