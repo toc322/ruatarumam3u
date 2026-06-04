@@ -15,8 +15,6 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=ebs_1_540&sid=vHyUZnRhksnBekpu
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=ebs_2_540&sid=jvgMIYZC8L1lM4iQeyaEBEmSmsp4Da1x24JbbVwh&secret=6d24fd40d06020266561930e77cea1f3&time=1765892041
 #EXTINF:-1,tvg-id="EBS플러스1.kr", EBS+1
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,tvg-id="EBS플러스2.kr", EBS+2
-https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,tvg-id="JTBC.kr", JTBC 
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
 #EXTINF:-1,tvg-id="YTN.kr", YTN
