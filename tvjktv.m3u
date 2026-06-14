@@ -4,7 +4,9 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLn
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
 #EXTINF:-1,tvg-id="KBS2.kr", KBS2
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs2_540&sid=AyMBt8STQi7J8FnSd0PeQSXX6kQBHrmnVJljjl8w&secret=b232cc97122ea9f507475b72065f7562&time=1765891904
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=dsmkPnkahKpVt412ZLoZDFks0Hl4Ird7Wmce12n8&secret=decb310f39a9b01d16a8003384b8da37&time=1781401802
+#EXTINF:-1,tvg-id="KBS2.kr", KBS2_1
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=AyMBt8STQi7J8FnSd0PeQSXX6kQBHrmnVJljjl8w&secret=b232cc97122ea9f507475b72065f7562&time=1765891904
 #EXTINF:-1,tvg-id="MBC.kr", MBC
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=mbc_540&sid=IpaGWtS1yBSO7JUbq1qO5wzVEOxA49k1jXoRVIbD&secret=a359917fe5cd684f8a1b9e21443c4710&time=1765891937
 #EXTINF:-1,tvg-id="SBS.kr", SBS
@@ -17,8 +19,10 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=ebs_2_540&sid=jvgMIYZC8L1lM4iQ
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1,tvg-id="EBS플러스2.kr", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-#EXTINF:-1,tvg-id="JTBC.kr", JTBC 
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
+#EXTINF:-1,tvg-id="JTBC.kr", JTBC
+https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_540&sid=FTsuNRKwD60mEMC2sCXQqRwhzTicXEGmoV7IbkdN&secret=70741707742b36b69e1a59ba5f962dc9&time=1781401348
+#EXTINF:-1,tvg-id="JTBC.kr", JTBC_1
+https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_540&sid=kbtxyuPVF37QVO3zGKMNyQSQo063cYeik0Vr0GoS&secret=133ec1aaf7cf7cf8f6aa77e714da7059&time=1765892075
 #EXTINF:-1,tvg-id="YTN.kr", YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
 #https://live-114.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
