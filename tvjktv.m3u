@@ -15,8 +15,12 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=AyMBt8STQi7J8FnSd0PeQ
 https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 #EXTINF:-1,tvg-id="MBC.kr", MBC
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=mbc_540&sid=IpaGWtS1yBSO7JUbq1qO5wzVEOxA49k1jXoRVIbD&secret=a359917fe5cd684f8a1b9e21443c4710&time=1765891937
+#EXTINF:-1,tvg-id="MBC.kr", MBC_1
+https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 #EXTINF:-1,tvg-id="SBS.kr", SBS
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_540&sid=nfOYdJXzncD8lRHzh71jjNMMPF1wpIzAUSc7gVY6&secret=8a4fe706f9cd8c91ecf75cf53f77f08f&time=1765891975
+#EXTINF:-1,tvg-id="SBS.kr", SBS_1
+https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODIzMDYwMDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjdhNzI1NmI4LTM3ZDQtNGUzYi1iOGQyLTc4NzYzNTUyZGY3YiIsImlhdCI6MTc4MjI5ODgwMn0.FVCnVsWUoOr0lV6k4BZ1o8OZPqMp7X1BGDyBtsms7aw
 #EXTINF:-1,tvg-id="EBS.kr", EBS 
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=ebs_1_540&sid=vHyUZnRhksnBekpuSNsyewg7y2zjV8qPW9aLSrke&secret=8db7c58ae15873a118931b3c91cead09&time=1765892008
 #EXTINF:-1,tvg-id="EBS2.kr", EBS2
@@ -36,6 +40,8 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&chan
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=newsy_540&sid=eaRByMvJw0UctghzvXsaA1xwMxFVZnO9G2f232VS&secret=6c2a394fc34ce9f0d1b6bc1b12e072b1&time=1772753846
 #EXTINF:-1,tvg-id="YTN2.kr", YTN2
 https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
+#EXTINF:-1,tvg-id="YTN사이언스.kr", YTN사이언스
+https://backup.760515.xyz/playlist/YTN사이언스-playlist.m3u8
 #EXTINF:-1,tvg-id="OCN.kr", OCN
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=ocn_540&sid=McQvGbDfq4hsve6JgFcS6jMdp42nkMU0dIxrMz1A&secret=9e8f47c001015b350cb5c44a43bccca1&time=1778587856
 #EXTINF:-1,tvg-id="OCN.Movies.kr", OCN Movies
@@ -83,7 +89,7 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=spotv_on2_540&sid=bQRIUtyfpTIV
 #EXTINF:-1,tvg-id="BilliardsTV.kr", BilliardsTV 
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=billiardstv_540&sid=bxoGY0nBKiAsgx13rEU3crfrjbFtDTDW1LWK3Eoz&secret=827efadef3e0e6ea7ac261cedae42030&time=1765893296
 #EXTINF:-1,tvg-id="SkysportsF1.kr", Skysports F1
-https://iptv.707626.xyz/ch/fcd24cf47abdfbe546a3f5c418b2e15a/master.m3u8
+http://lordstreams.live:80/9857855271/8369553594/661342
 #EXTINF:-1,tvg-id="OGNstarleague.kr", OGN starleague
 https://jmp2.uk/stvp-KRBC3200005SH
 #EXTINF:-1,tvg-id="Mnet.kr", MNet
