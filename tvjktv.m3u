@@ -99,7 +99,7 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=xtm_540&sid=btei8SrdZCpwjr93Fg
 #EXTINF:-1,tvg-id="JTBC2.kr", JTBC2
 https://backup.760515.xyz/playlist/JTBC2-playlist.m3u8
 #EXTINF:-1,tvg-id="ENA.kr", ENA
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjWzAwr3lJwf33HioT5cjQu2sOvOY&secret=3c61e4ad06248b88a09d238ff20d7fa4&time=1765890963
+https://k227.jk-cdn.com/watch/live.m3u8?video=kbs_joy_540&sid=klz4P5joYZh0H7DqK53CdKK2VhmdVE1CxrtYfLsq&secret=7b7eb4c96b5cdd6491fa282f45e1f67d&time=1787526891
 #EXTINF:-1,tvg-id="MBC.Every1.kr", MBC Every1
 https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6691EA18A3C13FC4324935313391414995B136E5790952D13AC061a61686384679a5F33F3B62D1439046353164b1B1210B0497E137769DB010AB0A091CB1EE24D95C965530F6731DF7943393E2A6594263A317AB92403B83E54219D8BA61433AF6B054F467E28CE8332DF3F5DE28E407AFC2675ADAB23C07B393859BA0906117&v=3
 #EXTINF:-1,tvg-id="SBS.Plus.kr", SBS Plus
