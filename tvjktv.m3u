@@ -1,6 +1,6 @@
 #EXTM3U8
 #EXTINF:-1,tvg-id="tvN.kr", tvN
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=tvn_540&sid=VuRBsIqWGAvpGSOVLnYEhrB8COiArn1mmj7ckNV5&secret=a72ec41ef89359f0cd94837d75fa20f9&time=1772755122
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=VX6ElRaULFChaahfcjVgR4JJ9RrwX4cEMl3ETSia&secret=1b618608a127dccf8152839285663db7&time=1787506680
 #EXTINF:-1,tvg-id="tvN.kr", tvN_1
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1
@@ -43,11 +43,11 @@ https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
 #EXTINF:-1,tvg-id="YTN사이언스.kr", YTN사이언스
 https://backup.760515.xyz/playlist/YTN사이언스-playlist.m3u8
 #EXTINF:-1,tvg-id="OCN.kr", OCN
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=ocn_540&sid=McQvGbDfq4hsve6JgFcS6jMdp42nkMU0dIxrMz1A&secret=9e8f47c001015b350cb5c44a43bccca1&time=1778587856
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=97opENqLKdd8POFNtAiV6LcsP9BgbKaIS0plis7J&secret=cc9e19eb3444cdf88e1d858e9ada8568&time=1787506786
 #EXTINF:-1,tvg-id="OCN.Movies.kr", OCN Movies
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=cgv_540&sid=6IfK2042MazcEh2MY6thHqMyXWOOzRh9FaQSIxLw&secret=584c956493c0e0d7a34e81eb52cdd34c&time=1765892161
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=dkpfykPCGkAwsX5LiAe86F2AnKH4qj2PU2aqjxIu&secret=c692562f2ac7577fe6adbf1d87ef5145&time=1787506845
 #EXTINF:-1,tvg-id="OCN.Movies2.kr", OCN Movies2
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=super_action_540&sid=Aq9QkNY4Pe5i5qqbZ80wYIPOMlJlncdshNl59Ykd&secret=ace12c806a4f2f6a255b1c93813fe49f&time=1765892291
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=riqoHsdMTQ3Vkwb8bOQHcDiUM7Sk9hryP6dNEDYo&secret=6135149442d25f43caaba292e3210ee3&time=1787506898
 #EXTINF:-1,tvg-id="CJENMMovie.kr", CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
 #EXTINF:-1,tvg-id="PLAYY.kr", PLAYY
@@ -103,9 +103,9 @@ https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs_joy_540&sid=Yj9bfkjAif5rjW
 #EXTINF:-1,tvg-id="MBC.Every1.kr", MBC Every1
 https://every1ottsd.imbc.com/plus_every1_sd/_definst_/every1_sd.stream/chunklist.m3u8?_lsu_sa_=6691EA18A3C13FC4324935313391414995B136E5790952D13AC061a61686384679a5F33F3B62D1439046353164b1B1210B0497E137769DB010AB0A091CB1EE24D95C965530F6731DF7943393E2A6594263A317AB92403B83E54219D8BA61433AF6B054F467E28CE8332DF3F5DE28E407AFC2675ADAB23C07B393859BA0906117&v=3
 #EXTINF:-1,tvg-id="SBS.Plus.kr", SBS Plus
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_plus_540&sid=PSGAnCYbuV5h5n957kwavdsTd1M9EtFZwsixuxcN&secret=703094f919241535d243917621af3c53&time=1765893212
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=0eO9YkZwH8s8mKk5jRUvJQo5zJvML1OvX4KRpRCv&secret=ad5403c1312c9ace8b8ebe0a49e84eb6&time=1787507175
 #EXTINF:-1,tvg-id="E채널.kr", E Channel
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=channel_e_540&sid=73MxlHL2gH7316d8Pep1sEorvOjeAEUV4LbFxupT&secret=29e942a9896054ebeb9dcaa0a83dbc74&time=1772754436
+https://k227.jk-cdn.com/playlist/live.m3u8?sid=fNEyISq1aF2sBpS72ad0ctVipGYVrSZ7DJRX2X1j&secret=27d9b6720da3ecf3b6b082cad106cab1&time=1787507112
 #EXTINF:-1,tvg-id="코미디TV.kr", 코미디TV
 https://k227.jk-cdn.com:443/watch/live.m3u8?video=comedy_540&sid=VwrbOrArABoCGtqRD7p4O5o3TLyqonOhScABtAo7&secret=2fe9f41d49ae8ea23b419e850b69671d&time=1742501996
 #EXTINF:-1,tvg-id="KBS.Story.kr", KBS Story
