@@ -1,24 +1,27 @@
 #EXTM3U8
 #EXTINF:-1,tvg-id="tvN.kr", tvN
-https://k227.jk-cdn.com/watch/live.m3u8?video=tvn_540&sid=8l3iIjdRuiz0NY6jdjhmnRvtjTL430BJbJJsD5qB&secret=93f72d1db45caca4fefc0af4dca25ae7&time=1787526222
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn
+#https://k227.jk-cdn.com/watch/live.m3u8?video=tvn_540&sid=8l3iIjdRuiz0NY6jdjhmnRvtjTL430BJbJJsD5qB&secret=93f72d1db45caca4fefc0af4dca25ae7&time=1787526222
 #EXTINF:-1,tvg-id="tvN.kr", tvN_1
 https://backup.760515.xyz/playlist/tvN-playlist.m3u8
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
+#https://k227.jk-cdn.com:443/watch/live.m3u8?video=kbs1_540&sid=EZ5881Rv73XGA0AECIYF9UX34lt3YBvq6RLJ1voI&secret=e7d5668457a260527ef38656f6b0082e&time=1765891871
 #EXTINF:-1,tvg-id="KBS1.kr", KBS1_1
 https://backup.760515.xyz/playlist/KBS1-playlist.m3u8
 #EXTINF:-1,tvg-id="KBS2.kr", KBS2
-https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=dsmkPnkahKpVt412ZLoZDFks0Hl4Ird7Wmce12n8&secret=decb310f39a9b01d16a8003384b8da37&time=1781401802
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
+#https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=dsmkPnkahKpVt412ZLoZDFks0Hl4Ird7Wmce12n8&secret=decb310f39a9b01d16a8003384b8da37&time=1781401802
 #EXTINF:-1,tvg-id="KBS2.kr", KBS2_1
-https://k227.jk-cdn.com/watch/live.m3u8?video=kbs2_540&sid=AyMBt8STQi7J8FnSd0PeQSXX6kQBHrmnVJljjl8w&secret=b232cc97122ea9f507475b72065f7562&time=1765891904
-#EXTINF:-1,tvg-id="KBS2.kr", KBS2_2
 https://backup.760515.xyz/playlist/KBS2-playlist.m3u8
 #EXTINF:-1,tvg-id="MBC.kr", MBC
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=mbc_540&sid=IpaGWtS1yBSO7JUbq1qO5wzVEOxA49k1jXoRVIbD&secret=a359917fe5cd684f8a1b9e21443c4710&time=1765891937
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
+#https://k227.jk-cdn.com:443/watch/live.m3u8?video=mbc_540&sid=IpaGWtS1yBSO7JUbq1qO5wzVEOxA49k1jXoRVIbD&secret=a359917fe5cd684f8a1b9e21443c4710&time=1765891937
 #EXTINF:-1,tvg-id="MBC.kr", MBC_1
 https://backup.760515.xyz/playlist/MBC-playlist.m3u8
 #EXTINF:-1,tvg-id="SBS.kr", SBS
-https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_540&sid=nfOYdJXzncD8lRHzh71jjNMMPF1wpIzAUSc7gVY6&secret=8a4fe706f9cd8c91ecf75cf53f77f08f&time=1765891975
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
+#https://k227.jk-cdn.com:443/watch/live.m3u8?video=sbs_540&sid=nfOYdJXzncD8lRHzh71jjNMMPF1wpIzAUSc7gVY6&secret=8a4fe706f9cd8c91ecf75cf53f77f08f&time=1765891975
 #EXTINF:-1,tvg-id="SBS.kr", SBS_1
 https://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODIzMDYwMDIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjdhNzI1NmI4LTM3ZDQtNGUzYi1iOGQyLTc4NzYzNTUyZGY3YiIsImlhdCI6MTc4MjI5ODgwMn0.FVCnVsWUoOr0lV6k4BZ1o8OZPqMp7X1BGDyBtsms7aw
 #EXTINF:-1,tvg-id="EBS.kr", EBS 
@@ -43,11 +46,14 @@ https://backup.760515.xyz/playlist/YTN2-playlist.m3u8
 #EXTINF:-1,tvg-id="YTN사이언스.kr", YTN사이언스
 https://backup.760515.xyz/playlist/YTN사이언스-playlist.m3u8
 #EXTINF:-1,tvg-id="OCN.kr", OCN
-https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_540&sid=qbTihuKMLX66zxEqPiRIzO8TBwbDlSJs5y3hMRag&secret=fec72e0aaab578a44e3f3f399282d6d9&time=1787526284
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
+#https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_540&sid=qbTihuKMLX66zxEqPiRIzO8TBwbDlSJs5y3hMRag&secret=fec72e0aaab578a44e3f3f399282d6d9&time=1787526284
 #EXTINF:-1,tvg-id="OCN.Movies.kr", OCN Movies
-https://k227.jk-cdn.com/watch/live.m3u8?video=cgv_540&sid=O3GAGGNJmRfYRokLpa13Vr842sysX2rrBVLzM4tE&secret=c24732bfbbc77330a33a360ac4c86e2a&time=1787526306
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
+#https://k227.jk-cdn.com/watch/live.m3u8?video=cgv_540&sid=O3GAGGNJmRfYRokLpa13Vr842sysX2rrBVLzM4tE&secret=c24732bfbbc77330a33a360ac4c86e2a&time=1787526306
 #EXTINF:-1,tvg-id="OCN.Movies2.kr", OCN Movies2
-https://k227.jk-cdn.com/watch/live.m3u8?video=super_action_540&sid=EmlobRxqtbcr3oM5ZAxIFjtux2MiVs44OP3bvy1Y&secret=9036cf644ab1eb5956757187be41bec3&time=1787526335
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+#https://k227.jk-cdn.com/watch/live.m3u8?video=super_action_540&sid=EmlobRxqtbcr3oM5ZAxIFjtux2MiVs44OP3bvy1Y&secret=9036cf644ab1eb5956757187be41bec3&time=1787526335
 #EXTINF:-1,tvg-id="CJENMMovie.kr", CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
 #EXTINF:-1,tvg-id="PLAYY.kr", PLAYY
