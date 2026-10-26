@@ -33,7 +33,7 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_720&sid=qN6tn62G5qnKPmWCbUoLR
 https://backup.760515.xyz/playlist/JTBC-playlist.m3u8
 #EXTINF:-1,tvg-id="YTN.kr", YTN
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=ytn&channel_id=newid_rt048&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=97ef7359-cc9f9a9d-e4b24aa2-1f3d7cf6&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-#https://live-114.myjktv.com:443/watch/live.m3u8?video=ytn_540&sid=HxS8g2O614Z22pnhG5974Hey06SlgSHeT24eUPwD&secret=3d4c2a8304d1673ecd3114c5c6f48568&time=1742500356
+#https://backup.760515.xyz/playlist/YTN-playlist.m3u8
 #EXTINF:-1,tvg-id="연합뉴스TV.kr", 연합뉴스
 https://k227.jk-cdn.com/watch/live.m3u8?video=newsy_720&sid=aiOrqzgeu4WS4tvPi5E6h4S9vMRw8a4vzF31HnbO&secret=5485bf8208b65d5d4a0d0113db605b1f&time=1791648553
 #EXTINF:-1,tvg-id="YTN2.kr", YTN2
@@ -44,9 +44,9 @@ https://backup.760515.xyz/playlist/YTN사이언스-playlist.m3u8
 https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_720&sid=T9363q7ykGDmu0vrBlBiY5jK3VzFO90uT5PKHs82&secret=00343c4e763a38d85c783a62fd31139c&time=1791648604
 #EXTINF:-1,tvg-id="OCN.Movies2.kr", OCN Movies2
 https://k227.jk-cdn.com/watch/live.m3u8?video=ocn_movie_2_720&sid=mJlrE1OHart120le1MX0Sj9MtBUb0ZdtYJjFFEIR&secret=53e6b7ec936c8608c76ece527e5fcba2&time=1791648634
-#EXTINF:-1,tvg-id="CATCH.ON.kr", CATCH ON
+#EXTINF:-1,tvg-id="캐치온1_유료.kr", CATCH ON
 https://k227.jk-cdn.com/watch/live.m3u8?video=catch_on_720&sid=YjpbXFCIicSXLmXj8LdCJHiZQgZ8oqKVbeLIPE6o&secret=0073d7eeb142828c512dedfc8ece3695&time=1791648984
-#EXTINF:-1,tvg-id="THE.Movie.kr", THE Movie
+#EXTINF:-1,tvg-id="더무비.kr", THE Movie
 https://k227.jk-cdn.com/watch/live.m3u8?video=the_movie_720&sid=sRbVRptygWRnByWAWNFZyw8438DEMLyLMcAnlCJA&secret=5ae2a4e8a43773224a1ad100fe9ec09e&time=1791651294
 #EXTINF:-1,tvg-id="CJENMMovie.kr", CJ ENM Movie
 https://jmp2.uk/stvp-KRBC32000191N
@@ -65,7 +65,8 @@ https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_sports_720&sid=TOyQc4q31y5CC10
 #EXTINF:-1,tvg-id="SBS.Golf.kr", SBS GOLF
 https://k227.jk-cdn.com/watch/live.m3u8?video=sbs_golf_720&sid=vN1d1svusXIUXdDPpv5HNXfzlTKHLayjThpVc8hc&secret=23352905bff0b8805fdb9c742b6a814f&time=1791649261
 #EXTINF:-1,tvg-id="SBSGolf2.kr", SBS GOLF2
-https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_3_720&sid=LuWGtEXwYoCrndhuGDbpbB0N0xdZ6jF46RKZD8UL&secret=ca08eb90d774a121aaaf03a1998126bb&time=1791649286
+https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTMwNDQ4ODAsInBhdGgiOiIvc2JzZ29sZjIxLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiYzM5NTJlNmItMGJlYy00OWY0LTkwNmYtMWNhNjlkMWIwOTgxIiwiaWF0IjoxNzkzMDM3NjgwfQ.8GIQtF5QqPlIpSnDWSXjL_TEiP6T6cnABW7-vu-j_io
+#https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_3_720&sid=LuWGtEXwYoCrndhuGDbpbB0N0xdZ6jF46RKZD8UL&secret=ca08eb90d774a121aaaf03a1998126bb&time=1791649286
 #EXTINF:-1,tvg-id="JTBC.Golf.kr", JTBC GOLF
 https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_golf_720&sid=ZM1asfIjSfXNQawgmxKE7DlCUzffLnwr6HvyaWLU&secret=a2ac3077b2ef873bcd2a973d966a4b2a&time=1791649327
 #EXTINF:-1,tvg-id="JTBC.GOLF&amp;SPORTS.krr", JTBC GOLF&SPORTS
