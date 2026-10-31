@@ -69,7 +69,7 @@ https://tvlive.sbs.co.kr/sbsgolf2/sbsgolf21.stream/playlist.m3u8?token=eyJ0eXAiO
 #https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_3_720&sid=LuWGtEXwYoCrndhuGDbpbB0N0xdZ6jF46RKZD8UL&secret=ca08eb90d774a121aaaf03a1998126bb&time=1791649286
 #EXTINF:-1,tvg-id="JTBC.Golf.kr", JTBC GOLF
 https://k227.jk-cdn.com/watch/live.m3u8?video=jtbc_golf_720&sid=ZM1asfIjSfXNQawgmxKE7DlCUzffLnwr6HvyaWLU&secret=a2ac3077b2ef873bcd2a973d966a4b2a&time=1791649327
-#EXTINF:-1,tvg-id="JTBC.GOLF&SPORTS.kr", JTBC GOLF&SPORTS
+#EXTINF:-1,tvg-id="JTBC.GOLF&amp;SPORTS.kr", JTBC GOLF&SPORTS
 http://211.110.63.98/jtbc3sports1/_definst_/92EE8BC280FBC3F170429AC55F0234B0E9A288DD1A54804514EA4B2D1D861D79/chunklist_w2059444615.m3u8
 #EXTINF:-1,tvg-id="SPOTV.GolfandHealth.kr", SPOTV Golf&Health
 https://k227.jk-cdn.com/watch/live.m3u8?video=ba6bb92c211592d01ed12537b04a19e6&sid=MZeuEln7F7i1vdHIcpOdrAscKSgx2ucPH4OVB3jl&secret=8553b495692571b23a6d4b3cad2e12f2&time=1791649382
